@@ -74,7 +74,7 @@ Further literature exploration focuses on using sentiment analysis to understand
 | **Goal** | **Type** | **Algorithm** | **Output** |
 |-----------|-----------|---------------|-------------|
 | Predict installs | Regression | Linear Regression, Random Forest | Estimate app popularity |
-| Predict rating | Regression | XGBoost, Ridge Regression | Estimate average rating |
+| Predict rating | Regression | XGBoost | Estimate average rating |
 | Classify app success | Classification | Logistic Regression, Decision Tree | High vs. Low performing apps |
 | Cluster market patterns | Unsupervised | K-Means / PCA | Segment apps by category |
 | Analyze review themes | NLP | LDA Topic Modeling | Identify key user concerns |
