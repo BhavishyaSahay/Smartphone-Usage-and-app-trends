@@ -1,5 +1,5 @@
 # 📱 Smartphone Usage and App Trends  
-### *Data Mining Project — Phase 1 & Phase 2 Submission*  
+### *Data Mining Project*
 
 ---
 
